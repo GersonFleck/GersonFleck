@@ -27,7 +27,7 @@ profile:
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "gerson.fleck.dev@gmail.com"
+  email: "gersonfleckfilho@gmail.com"
   linkedin: "gerson-fleck"
   website: ""
 
@@ -72,11 +72,11 @@ projects:
 
   - repo: "GersonFleck/teste-tecnico-laravel"
     arm: 1
-    description: "Projeto backend em Laravel com consumo de API e estruturação de regras de negócio."
+    description: "Projeto front-end em Laravel com consumo de API e estruturação de regras de negócio."
 
-  - repo: "GersonFleck/EstudoSpread"
+  - repo: "GersonFleck/appMusic"
     arm: 2
-    description: "Sistema em Excel VBA para automação e controle financeiro mensal."
+    description: "App de estudo voltado a reproduzir gifs e audio"
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)

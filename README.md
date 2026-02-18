@@ -1,5 +1,4 @@
 
-## Preview
 
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
@@ -21,4 +20,13 @@
 
 <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+<br>
+<div align="center">
+  <a href="mailto:gersonfleckfilho@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gerson-fleck-6b7874228">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
 </div>
