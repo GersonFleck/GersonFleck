@@ -167,7 +167,7 @@
     <circle cx="425.0" cy="85" r="5" fill="#00e5ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
     <circle cx="425.0" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="425.0" y="111" fill="#f8fafc" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">teste-tecnico-laravel</text>
-    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Projeto backend em Laravel com</text>
+    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Projeto front-end em Laravel com</text>
     <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">consumo de API e estruturação de</text>
     <rect x="368.0" y="163" width="114" height="18" rx="9" ry="9" fill="#00e5ff" opacity="0.12"/>
     <text x="425.0" y="175" fill="#00e5ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">APIs &amp; Backend</text>
@@ -183,9 +183,9 @@
     <circle cx="697.5" cy="85" r="8" fill="#f59e0b" opacity="0.15" filter="url(#proj-glow-2)"/>
     <circle cx="697.5" cy="85" r="5" fill="#f59e0b" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
     <circle cx="697.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="697.5" y="111" fill="#f8fafc" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">EstudoSpread</text>
-    <text x="697.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Sistema em Excel VBA para</text>
-    <text x="697.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">automação e controle financeiro</text>
+    <text x="697.5" y="111" fill="#f8fafc" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">appMusic</text>
+    <text x="697.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">App de estudo voltado a</text>
+    <text x="697.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">reproduzir gifs e audio</text>
     <rect x="626.5" y="163" width="142" height="18" rx="9" ry="9" fill="#f59e0b" opacity="0.12"/>
     <text x="697.5" y="175" fill="#f59e0b" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Automation &amp; Tools</text>
   </g>
